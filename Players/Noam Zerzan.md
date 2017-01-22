@@ -9,6 +9,13 @@ Rapier | +5 | 1d8  + 3 |
 Hand Crossbow | +5 | 1d6 + 3 | 30 ft
 Dagger (dual wield) | +5 | 1d4  + 3
 
+
+##Attacks
+
+Name | Description | Condition
+-----|----------|-
+Sneak Attack |  + 16d  | *requires stealth*
+
 ##Gear
 * Gold x 103
 * Hat, probs magic
